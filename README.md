@@ -1,2 +1,2 @@
-# boids
+# Boids
 Boids implementation in Rust
